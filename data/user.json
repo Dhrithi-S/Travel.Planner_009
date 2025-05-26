@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "email": "john@example.com",
+    "password": "password123",
+    "joinDate": "2024-01-15",
+    "favoriteDestinations": [1, 3],
+    "trips": [
+      {
+        "id": 1,
+        "name": "European Adventure",
+        "destinationId": 1,
+        "startDate": "2024-06-15",
+        "endDate": "2024-06-25",
+        "budget": 2000,
+        "createdDate": "2024-01-20",
+        "status": "planned"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "password": "mypass456",
+    "joinDate": "2024-02-10",
+    "favoriteDestinations": [2, 5],
+    "trips": [
+      {
+        "id": 1,
+        "name": "Tokyo Spring Trip",
+        "destinationId": 2,
+        "startDate": "2024-04-01",
+        "endDate": "2024-04-10",
+        "budget": 3000,
+        "createdDate": "2024-02-15",
+        "status": "planned"
+      },
+      {
+        "id": 2,
+        "name": "Bali Relaxation",
+        "destinationId": 5,
+        "startDate": "2024-08-20",
+        "endDate": "2024-08-30",
+        "budget": 1500,
+        "createdDate": "2024-03-01",
+        "status": "planned"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Mike Developer",
+    "email": "mike@example.com",
+    "password": "dev123",
+    "joinDate": "2024-01-01",
+    "favoriteDestinations": [1, 2, 3, 4],
+    "trips": []
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "country": "France",
+    "price": 500,
+    "description": "City of love and beautiful architecture",
+    "image": "https://via.placeholder.com/300x200/4285f4/ffffff?text=Paris",
+    "rating": 4.8,
+    "popular": true,
+    "activities": ["Eiffel Tower", "Louvre Museum", "Seine River Cruise"]
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "country": "Japan", 
+    "price": 800,
+    "description": "Modern city with traditional culture",
+    "image": "https://via.placeholder.com/300x200/34a853/ffffff?text=Tokyo",
+    "rating": 4.9,
+    "popular": true,
+    "activities": ["Temples", "Sushi Tours", "Cherry Blossoms"]
+  },
+  {
+    "id": 3,
+    "name": "London",
+    "country": "UK",
+    "price": 600,
+    "description": "Historic city with royal heritage",
+    "image": "https://via.placeholder.com/300x200/ea4335/ffffff?text=London",
+    "rating": 4.7,
+    "popular": true,
+    "activities": ["Big Ben", "Buckingham Palace", "Thames Tour"]
+  },
+  {
+    "id": 4,
+    "name": "New York",
+    "country": "USA",
+    "price": 700,
+    "description": "The city that never sleeps",
+    "image": "https://via.placeholder.com/300x200/fbbc04/ffffff?text=NYC",
+    "rating": 4.6,
+    "popular": false,
+    "activities": ["Statue of Liberty", "Central Park", "Broadway Shows"]
+  },
+  {
+    "id": 5,
+    "name": "Bali",
+    "country": "Indonesia",
+    "price": 400,
+    "description": "Tropical paradise with beautiful beaches",
+    "image": "https://via.placeholder.com/300x200/ff6d01/ffffff?text=Bali",
+    "rating": 4.7,
+    "popular": true,
+    "activities": ["Beach Relaxation", "Temple Tours", "Rice Terraces"]
+  }
+]
