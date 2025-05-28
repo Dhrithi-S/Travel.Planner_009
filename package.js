@@ -17,5 +17,5 @@
   },
   "keywords": ["travel", "backend", "beginner", "express", "nodejs"],
   "author": "Mike (Backend Developer - Beginner)",
-  "license": "MIT"
+  "license": "MITs"
 }i
